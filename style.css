@@ -1,0 +1,36 @@
+body{
+    padding: 0;
+    margin: 0;
+    background-image: linear-gradient(to left bottom, #051937, #004d7a, #008793, #00bf72, #a8eb12);
+    background-repeat: no-repeat;
+    background-size: 100vw 100vh;
+}
+.header{
+    margin-left: 460px;
+    margin-top: 100px;
+}
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 80px;
+}
+textarea.sb {
+    width: 300px;
+    height: 150px;
+    border-radius: 15px;
+    margin: 30px;
+  background-color: #ffffff5e;
+  border: 1px solid black;
+  opacity: 0.6;
+}
+
+button.btn{
+width:70px;
+height: 30px;
+margin-top:20px;
+border-radius: 10px;
+border-color: #a8eb12;
+size: 20px;
+    
+}
